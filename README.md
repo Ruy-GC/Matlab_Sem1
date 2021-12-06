@@ -1,4 +1,4 @@
-# Matlab_Sem1
+# Matlab_Simulations
 Matlab simulations from my first Semester in college.
 
 simulador.m: simulation of the trajectory followed by a proyectile after being launched by a volcano eruption, this path is calculated by using the verlet method considering air resistance, height, initial speed, angle of the proyectile and its properties.
